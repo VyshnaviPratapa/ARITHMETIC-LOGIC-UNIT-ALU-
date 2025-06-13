@@ -18,4 +18,4 @@
 
 *APPLICATIONS*: Cental Processing Unit, Floating Point Unit, Graphics Processing Units, Embedded Systems, Digital Circuits, Specialized Hardware.
 
-*OUTPUT*: ![Image](https://github.com/user-attachments/assets/5a2324f9-cf89-4a8d-aff2-fa4ea0b23d28)
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/5fc915d9-fe42-456e-a53d-27eabc93bd9f)
